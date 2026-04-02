@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=300&fit=crop",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "thumbnail": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=400&h=300&fit=crop",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Classic"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "thumbnail": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?w=400&h=300&fit=crop",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&h=300&fit=crop",
+    "iframeUrl": "https://flappybird.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "thumbnail": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=400&h=300&fit=crop",
+    "iframeUrl": "https://www.chess.com/play/online",
+    "category": "Strategy"
+  }
+]
